@@ -1,7 +1,7 @@
 <div class="body center" align="center">
 <p align="center">
   <a href="https://github.com/redscorpse">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=@redscorpse;A+chemistry+student+with+a+digital+mindset.;Learning+programming+on+my+free+time.++%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Future+cybersecurity+student.++%F0%9F%90%89;Visit+my+website:++redscorpse.sytes.net;&width=600&height=50&color=a07fff&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=@redscorpse;A+chemistry+student+with+a+digital+mindset.;Learning+programming+on+my+free+time.++👩🏻‍💻;Interested+on+Linux+and+cybersecurity.++🐧+🐉;&width=600&height=50&color=a07fff&center=true">
   </a>
 </p>
 
@@ -25,9 +25,12 @@ HOBBIES: ["👩🏻‍💻", "📖", "✒️", "🃏", "🎵"]
 ### My contributions
 ![github contribution grid snake animation](https://raw.githubusercontent.com/redscorpse/redscorpse/output/github-contribution-grid-snake.svg)
 
-Generated with *[Platane/snk](https://github.com/Platane/snk)* -->
+Generated with *[Platane/snk](https://github.com/Platane/snk)* 
 
-<img src="https://komarev.com/ghpvc/?username=redscorpse&color=c07fff&style=for-the-badge" alt="redscorpse" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=redscorpse&color=c07fff&style=for-the-badge" alt="redscorpse" />
+</p>
+-->
 
 
 </div>
