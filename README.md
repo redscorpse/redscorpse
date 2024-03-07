@@ -1,18 +1,16 @@
 <div class="body center" align="center">
+
+# Hi 👋 it's Reds
+
 <p align="center">
   <a href="https://github.com/redscorpse">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=@redscorpse;A+chemistry+student+with+a+digital+mindset.;Learning+programming+on+my+free+time.++👩🏻‍💻;Interested+on+Linux+and+cybersecurity.++🐧+🐉;&width=600&height=50&color=a07fff&center=true">
   </a>
 </p>
 
-### Hi 👋 it's Reds
-
-| <a href="https://redscorpse.sytes.net/"><img src="assets/reds_thinkpad.jpg" width="150px" height="150px" /></a> |
-|:--------------------------------------------------------------------------------------------------------------: |
-|                                **[redscorpse.sytes.net](https://redscorpse.sytes.net)**                         |
-| <a href="https://twitter.com/redsc0rpse"><img src="assets/icons/square-x-twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/redscorpse"><img src="assets/icons/square-github.svg" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ana-rojas/"><img src="assets/icons/linkedin.svg" width="32px" height="32px"></a> |
 
 ### About Me (with emojis)
+
 ```python
 TECH:    ["🍏", "🐧", "🦭", "🐍", "🐉"]
 HOBBIES: ["👩🏻‍💻", "📖", "✒️", "🃏", "🎵"]
@@ -31,6 +29,12 @@ Generated with *[Platane/snk](https://github.com/Platane/snk)*
   <img src="https://komarev.com/ghpvc/?username=redscorpse&color=c07fff&style=for-the-badge" alt="redscorpse" />
 </p>
 -->
+
+### Follow along
+| <a href="https://redscorpse.sytes.net/"><img src="assets/reds_thinkpad.jpg" width="150px" height="150px" /></a> |
+|:--------------------------------------------------------------------------------------------------------------: |
+|                                **[redscorpse.sytes.net](https://redscorpse.sytes.net)**                         |
+| <a href="https://twitter.com/redsc0rpse"><img src="assets/icons/square-x-twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/redscorpse"><img src="assets/icons/square-github.svg" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/ana-rojas/"><img src="assets/icons/linkedin.svg" width="32px" height="32px"></a> |
 
 
 </div>
