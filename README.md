@@ -21,11 +21,11 @@ HOBBIES: ["👩🏻‍💻", "📖", "✒️", "🃏", "🎵"]
 ### Programming languages I use
 <img alt="language stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=redscorpse&theme=dark&hide=Go,HTML,Jupyter%20Notebook,Roff,Ruby,Vim%20Script&count_private=false&show_icons=true&layout=compact&langs_count=6">
 
-
+<!-- 
 ### My contributions
 ![github contribution grid snake animation](https://raw.githubusercontent.com/redscorpse/redscorpse/output/github-contribution-grid-snake.svg)
 
-<!-- Generated with *[Platane/snk](https://github.com/Platane/snk)* -->
+Generated with *[Platane/snk](https://github.com/Platane/snk)* -->
 
 <img src="https://komarev.com/ghpvc/?username=redscorpse&color=c07fff&style=for-the-badge" alt="redscorpse" />
 
