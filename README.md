@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/redscorpse">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=@redscorpse;A+chemistry+student+with+a+digital+mindset.;Learning+programming+on+my+free+time.++👩🏻‍💻;Interested+on+Linux+and+cybersecurity.++🐧+🐉;&width=600&height=50&color=a07fff&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=@redscorpse;Graduated+in+computational+chemistry.;Student+of+a+master's+degree+in+cybersecurity.;Learning+programming+on+my+free+time.++👩🏻‍💻;Interested+on+Linux+and+cybersecurity.++🐧+🐉;&width=600&height=50&color=a07fff&center=true">
   </a>
 </p>
 
